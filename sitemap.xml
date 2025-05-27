@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://jamesclark.net.au</loc>
-	<lastmod>2023-07-27</lastmod>
+	<lastmod>2025-05-27</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://jamesclark.net.au/img/james.jpg</image:loc>
+	<image:loc>https://jamesclark.net.au/img/DC8A89D3-BA5E-4DF2-8D17-902EA59EA679%202.jpg</image:loc>
 	<image:title>James Clark</image:title>
 	</image:image>
 	<image:image>
@@ -15,6 +15,20 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://jamesclark.net.au/img/D91422C7-831E-4D8B-9B48-ACA32527E2F3.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://jamesclark.net.au/testimonials.html</loc>
+	<lastmod>2025-05-27</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://jamesclark.net.au/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://jamesclark.net.au/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
